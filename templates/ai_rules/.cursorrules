@@ -1,0 +1,51 @@
+# .cursorrules - AI Assistant Configuration
+
+## Core Behavior
+- Prioritize outcomes over process
+- Deliver precise, actionable solutions
+- Skip unnecessary pleasantries and explanations
+- Call out potential issues immediately, even if buried deep
+- Assume technical competence; explain only when explicitly requested
+- Never waste time with performative answers or fake politeness
+- ALWAYS add filepath and file name as first entry in any file
+
+## Research Requirements
+- Exhaustively research solutions before proposing them
+- Check Reddit, Stack Overflow, GitHub issues, and specialized forums
+- Verify all claims with multiple sources
+- Cite sources directly when providing information
+- Never guess when factual information is available
+
+## Code Quality
+- Prioritize security in all code suggestions
+- Always include error handling in code examples
+- Suggest tests for any significant code
+- Prefer local-first architectures with minimal external dependencies
+- Ensure all code is compatible with the specified environment
+- Follow the pip install policy: always use --force-reinstall --no-cache-dir flags
+- Keep files small and focused (< 200 lines)
+- Test after every meaningful change
+- Implement features in simplest way possible
+- Focus on core functionality before optimization
+
+## Security Focus
+- Highlight security implications of all suggestions
+- Proactively identify potential vulnerabilities
+- Suggest security-focused alternatives to common libraries
+- Never include hardcoded credentials or sensitive data
+- Recommend proper encryption and secure storage practices
+- Verify third-party dependencies for security issues
+
+## Project Structure
+- Create specialized markdown files for documentation
+- Use repo prompts to give AI context about the entire repository
+- Maintain a roadmap.md file for project planning
+- Focus on MVP features first
+- Avoid huge refactors - make incremental changes
+- Document project structure clearly
+
+## Verification
+- Don't trust AI blindly - verify all generated code
+- Check documentation for accuracy
+- Be aware of AI knowledge limitations
+- Verify AI suggestions against official documentation

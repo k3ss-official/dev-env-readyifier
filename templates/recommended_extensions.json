@@ -1,0 +1,330 @@
+{
+  "vscode": {
+    "essential": [
+      {
+        "id": "dbaeumer.vscode-eslint",
+        "name": "ESLint",
+        "description": "Integrates ESLint into VS Code for JavaScript/TypeScript code quality",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
+      },
+      {
+        "id": "esbenp.prettier-vscode",
+        "name": "Prettier",
+        "description": "Code formatter for consistent styling across projects",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+      },
+      {
+        "id": "eamodio.gitlens",
+        "name": "GitLens",
+        "description": "Supercharges Git capabilities within VS Code",
+        "category": "Version Control",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+      },
+      {
+        "id": "streetsidesoftware.code-spell-checker",
+        "name": "Code Spell Checker",
+        "description": "Spelling checker for source code that works with camelCase",
+        "category": "Code Quality",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
+      },
+      {
+        "id": "ms-vscode-remote.remote-ssh",
+        "name": "Remote - SSH",
+        "description": "Open folders on remote machines using SSH",
+        "category": "Remote Development",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
+      }
+    ],
+    "security": [
+      {
+        "id": "jit.jit",
+        "name": "Jit",
+        "description": "DevSecOps platform that orchestrates security tools to protect your pipeline",
+        "category": "Security",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=jit.jit"
+      },
+      {
+        "id": "snyk-security.snyk-vulnerability-scanner",
+        "name": "Snyk Security",
+        "description": "Find and fix vulnerabilities in your code and dependencies",
+        "category": "Security",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner"
+      },
+      {
+        "id": "checkmarx.ast-results",
+        "name": "Checkmarx",
+        "description": "Security scanning for code vulnerabilities",
+        "category": "Security",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=checkmarx.ast-results"
+      }
+    ],
+    "ai_assistance": [
+      {
+        "id": "codeium.codeium",
+        "name": "Codeium (Windsurf)",
+        "description": "Free AI code completion alternative to GitHub Copilot",
+        "category": "AI Assistance",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=Codeium.codeium"
+      },
+      {
+        "id": "Cline.cline",
+        "name": "Cline",
+        "description": "AI assistant with plan-then-act mode for thoughtful code implementation",
+        "category": "AI Assistance",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=Cline.cline"
+      },
+      {
+        "id": "tabnine.tabnine-vscode",
+        "name": "Tabnine",
+        "description": "AI code completion assistant",
+        "category": "AI Assistance",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "alefragnani.project-manager",
+        "name": "Project Manager",
+        "description": "Easily switch between projects",
+        "category": "Productivity",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"
+      },
+      {
+        "id": "Gruntfuggly.todo-tree",
+        "name": "Todo Tree",
+        "description": "Quickly access TODO comments in your codebase",
+        "category": "Productivity",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
+      },
+      {
+        "id": "aaron-bond.better-comments",
+        "name": "Better Comments",
+        "description": "Colorize comments based on their type (TODO, FIXME, etc.)",
+        "category": "Productivity",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"
+      },
+      {
+        "id": "ritwickdey.LiveServer",
+        "name": "Live Server",
+        "description": "Launch a local development server with live reload feature",
+        "category": "Web Development",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"
+      },
+      {
+        "id": "ms-azuretools.vscode-docker",
+        "name": "Docker",
+        "description": "Simplifies Docker container management",
+        "category": "DevOps",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
+      }
+    ],
+    "web_development": [
+      {
+        "id": "ms-vscode.vscode-typescript-next",
+        "name": "TypeScript Nightly",
+        "description": "Latest TypeScript features and improvements",
+        "category": "Web Development",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
+      },
+      {
+        "id": "yoavbls.pretty-ts-errors",
+        "name": "Pretty TypeScript Errors",
+        "description": "Make TypeScript errors prettier and more readable",
+        "category": "Web Development",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors"
+      },
+      {
+        "id": "rangav.vscode-thunder-client",
+        "name": "Thunder Client",
+        "description": "Lightweight REST API client for VS Code",
+        "category": "API Development",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client"
+      },
+      {
+        "id": "mtxr.sqltools",
+        "name": "SQLTools",
+        "description": "Database management within VS Code",
+        "category": "Database",
+        "priority": "medium",
+        "url": "https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools"
+      }
+    ],
+    "appearance": [
+      {
+        "id": "vscode-icons-team.vscode-icons",
+        "name": "vscode-icons",
+        "description": "Icons for Visual Studio Code",
+        "category": "Appearance",
+        "priority": "low",
+        "url": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons"
+      },
+      {
+        "id": "pkief.material-icon-theme",
+        "name": "Material Icon Theme",
+        "description": "Material Design Icons for Visual Studio Code",
+        "category": "Appearance",
+        "priority": "low",
+        "url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
+      }
+    ]
+  },
+  "vscode_insiders": {
+    "essential": [
+      {
+        "id": "dbaeumer.vscode-eslint",
+        "name": "ESLint",
+        "description": "Integrates ESLint into VS Code for JavaScript/TypeScript code quality",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
+      },
+      {
+        "id": "esbenp.prettier-vscode",
+        "name": "Prettier",
+        "description": "Code formatter for consistent styling across projects",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+      },
+      {
+        "id": "eamodio.gitlens",
+        "name": "GitLens",
+        "description": "Supercharges Git capabilities within VS Code",
+        "category": "Version Control",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+      }
+    ],
+    "security": [
+      {
+        "id": "jit.jit",
+        "name": "Jit",
+        "description": "DevSecOps platform that orchestrates security tools to protect your pipeline",
+        "category": "Security",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=jit.jit"
+      },
+      {
+        "id": "snyk-security.snyk-vulnerability-scanner",
+        "name": "Snyk Security",
+        "description": "Find and fix vulnerabilities in your code and dependencies",
+        "category": "Security",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner"
+      }
+    ]
+  },
+  "trae_ide": {
+    "essential": [
+      {
+        "id": "dbaeumer.vscode-eslint",
+        "name": "ESLint",
+        "description": "Integrates ESLint into VS Code for JavaScript/TypeScript code quality",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
+      },
+      {
+        "id": "esbenp.prettier-vscode",
+        "name": "Prettier",
+        "description": "Code formatter for consistent styling across projects",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+      }
+    ],
+    "security": [
+      {
+        "id": "snyk-security.snyk-vulnerability-scanner",
+        "name": "Snyk Security",
+        "description": "Find and fix vulnerabilities in your code and dependencies",
+        "category": "Security",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner"
+      }
+    ]
+  },
+  "void_ide": {
+    "essential": [
+      {
+        "id": "dbaeumer.vscode-eslint",
+        "name": "ESLint",
+        "description": "Integrates ESLint into VS Code for JavaScript/TypeScript code quality",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
+      },
+      {
+        "id": "esbenp.prettier-vscode",
+        "name": "Prettier",
+        "description": "Code formatter for consistent styling across projects",
+        "category": "Code Quality",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+      }
+    ],
+    "security": [
+      {
+        "id": "snyk-security.snyk-vulnerability-scanner",
+        "name": "Snyk Security",
+        "description": "Find and fix vulnerabilities in your code and dependencies",
+        "category": "Security",
+        "priority": "high",
+        "url": "https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner"
+      }
+    ]
+  },
+  "cli_tools": {
+    "aider": {
+      "essential": [
+        {
+          "name": "black",
+          "description": "Python code formatter",
+          "install_command": "pip install --force-reinstall --no-cache-dir black",
+          "priority": "high"
+        },
+        {
+          "name": "flake8",
+          "description": "Python code linter",
+          "install_command": "pip install --force-reinstall --no-cache-dir flake8",
+          "priority": "high"
+        },
+        {
+          "name": "mypy",
+          "description": "Static type checker for Python",
+          "install_command": "pip install --force-reinstall --no-cache-dir mypy",
+          "priority": "medium"
+        }
+      ],
+      "security": [
+        {
+          "name": "bandit",
+          "description": "Security linter for Python code",
+          "install_command": "pip install --force-reinstall --no-cache-dir bandit",
+          "priority": "high"
+        }
+      ]
+    }
+  }
+}
